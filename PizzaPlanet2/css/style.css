@@ -3,7 +3,6 @@
     padding: 0px;
 }
 
-
 header iframe {
     background-color: black;
     width: 100%;
@@ -18,12 +17,13 @@ header iframe {
 .boto {
     display: flex;
     align-items: center;
-    
 }
-.espaco{
+
+.espaco {
     padding: 20px;
 }
-.espacao{
+
+.espacao {
     padding: 20px 120px;
 }
 
@@ -36,10 +36,12 @@ header iframe {
     display: flex;
     align-items: center;
 }
-.dentro:hover{
+
+.dentro:hover {
     background-color: rgb(62, 56, 66);
 }
-.dentro2{
+
+.dentro2 {
     padding: 10px 18px;
     background-color: black;
     border: 1px rgb(255, 255, 255) solid;
@@ -50,14 +52,18 @@ header iframe {
 .sumido {
     visibility: hidden;
 }
-.opcao{
+
+.opcao {
     font-size: 15px;
     padding: 20px;
 }
-.facebook{
-    margin-left: 15px;
+
+.facebook {
+    margin-left: 10px;
+    width: 50%;
 }
-.login{
+
+.login {
     padding: 12px 25px;
     background-color: black;
     border: 1px rgb(255, 255, 255) solid;
@@ -66,6 +72,7 @@ header iframe {
     align-items: center;
     border-radius: 15px;
 }
-.login:hover{
+
+.login:hover {
     background-color: rgb(62, 56, 66);
 }
